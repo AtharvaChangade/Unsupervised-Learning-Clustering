@@ -1,0 +1,10 @@
+About the dataset (Earthquake data)
+The data records the earthquakes experienced for the last few years in the USA. There are four parameters in the data, where each data point represents an earthquake.
+
+Latitude: Latitude of the place (above the equator)
+
+Longitude: Longitude of the place (west of the prime meridian)
+
+DepthMeters: Absolute height of the place
+
+Magnitude: Magnitude of the earthquake wave
