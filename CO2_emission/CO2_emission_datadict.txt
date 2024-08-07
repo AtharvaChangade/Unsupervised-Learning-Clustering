@@ -1,0 +1,18 @@
+About the dataset (CO2 emission data)
+In the dataset, the CO2 emission for various regions in the world is given. Our objective is to group the regions based on the factors affecting the environment in terms of the greenhouse gases, where CO2 is a primary greenhouse gas.
+
+Many developing and developed countries in the world are contributing to the CO2 emission in the environment. It is interesting to know that the increase in atmospheric carbon dioxide is responsible for about two-thirds of the total energy imbalance that is causing Earth's temperature to rise and leads to global warming.
+
+Region: Region of the country
+
+CO2 Emission: Annual CO2 emission (in tonnes)
+
+Ease of Business: The ease of business in the country
+
+Energy Usage: Energy used by the country in various forms
+
+GDP: GDP of a country
+
+Internet Usage: Usage of the internet
+
+Population total: Total population of a country
